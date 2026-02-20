@@ -2,7 +2,7 @@
 replicaCount: 0
 
 # Environment settings
-environment: staging-eu
+environment: staging-eu2
 
 # Application settings
 userInterfaceTheme: "dark"
